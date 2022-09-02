@@ -1,1 +1,1 @@
-This is my git project readme
+This is my main git project readme
